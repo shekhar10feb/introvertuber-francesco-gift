@@ -1,0 +1,20 @@
+.interview_card {
+  margin: 1rem;
+  box-shadow: 5px 5px 15px 2px hsla(0, 0%, 56.5%, 0.8);
+}
+
+.title {
+  /* font-size: 1rem; */
+  font-weight: bold;
+  /* color: grey; */
+}
+.description {
+  color: grey;
+  font-size: 0.8rem;
+}
+
+.published_date {
+  color: grey;
+  font-weight: bold;
+  font-size: 12px;
+}

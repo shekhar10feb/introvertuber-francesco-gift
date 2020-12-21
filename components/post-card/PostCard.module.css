@@ -1,0 +1,16 @@
+.blog_card {
+  margin-bottom: 1rem;
+  box-shadow: 5px 5px 15px 2px hsla(0, 0%, 56.5%, 0.8);
+}
+
+.blog_card a {
+  text-decoration: none;
+}
+
+.title {
+  font-weight: bold;
+}
+.summary {
+  color: grey;
+  font-size: 0.8rem;
+}
